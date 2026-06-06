@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/Final.html",
+      "permanent": true
+    }
+  ]
+}
